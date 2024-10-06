@@ -19,3 +19,9 @@ Also, back in 2019, I wrote several articles on Javascript on Habr.com (https://
 ...
 
 In conclusion, I want to say that I like working with tasks of a wide variety of classes - from low-level to the highest-level/architectural ones. I am interested in learning concepts, protocols, systems, as well as creating my own. At the same time, I also like working with people and organizing business processes.
+
+...
+
+At the end of such pages, it is customary to talk about hobbies, right?
+
+Well, I like to read, and the set of genres is quite diverse, but most of all I like books with a philosophical bent and science fiction. On weekends, I try to walk to new places, especially where there is beautiful nature and architecture. I do not deny myself attending events with live music, I especially like jazz. The list does not end there, but you should not tell everything at once - it will not be interesting later.
