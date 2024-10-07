@@ -1,6 +1,6 @@
-## 🚀 A few words about Me
+# 🚀 A few words about Me
 
-# My IT origins
+## My IT origins
 
 I've been interested in computers and information technologies since childhood. However, for various reasons I did not start programming for a long time. But, one day I needed to create a small database using MS Access. And in the process of working on it, I got acquainted with programming in general and with SQL and Visual Basic in particular. Then I realized that I wanted to do programming professionally. After a while, I sat down to study textbooks and since then I have been programming almost every day. I spent some time trying to choose a language that suits my interests. I managed to try Javascript, Java and Python before my close acquaintance with C, and then C++. It is these languages and the opportunities they provide that have become the most interesting for me. Along with the languages themselves, I began to study system programming for Windows. At the very first interview, I got a job as a C++ programmer.
 
@@ -8,7 +8,7 @@ Company I joined is a leading service provider at system programming and securit
 
 After a little more than 2 years of development, I was promoted to lead programmer. Soon I started conducting interviews and became the deputy of my team lead.
 
-# Personal projects
+## Personal projects
 
 One of my first projects here on GitHub was about simulating a math coprocessor to raise an arbitrary real number to an arbitrary real power using only summation, inversion, and shift operations. I remembered from my school days that all basic math operations on binary numbers can be expressed through them. And after a while I was able to achieve accuracy of up to **+-1** least significant bit relative to the hardware reference (numbers for reconciliation were in the IEEE754 double-precision format). [The original implementation](https://github.com/AndreyGS/MinimalMath) was done in Java, but later I made [a new and improved version](https://github.com/AndreyGS/CMinimalMath) on C.
 
@@ -20,11 +20,11 @@ You can view these repositories and my other projects [here](https://github.com/
 
 Also, back in 2019, I wrote a few articles on Javascript on [Habr.com](https://habr.com/ru/users/ukbpyh/publications/articles).
 
-# Priorities
+## Priorities
 
 In conclusion, I want to say that I like working with tasks of a wide variety of classes - from low-level to the highest-level/architectural ones. I am interested in learning concepts, protocols, systems, as well as creating my own. At the same time, I also like working with people and organizing business processes.
 
-# Aside from programming
+## Aside from programming
 
 At the end of such pages, it is customary to talk about hobbies, right?
 
