@@ -10,15 +10,15 @@ After a little more than 2 years of development, I was promoted to lead programm
 
 ## Personal projects
 
-One of my first projects here on GitHub was about simulating a math coprocessor to raise an arbitrary real number to an arbitrary real power using only summation, inversion, and shift operations. I remembered from my school days that all basic math operations on binary numbers can be expressed through them. And after a while I was able to achieve accuracy of up to **+-1** least significant bit relative to the hardware reference (numbers for reconciliation were in the IEEE754 double-precision format). [The original implementation](https://github.com/AndreyGS/MinimalMath) was done in Java, but later I made [a new and improved version](https://github.com/AndreyGS/CMinimalMath) on C.
+One of my first projects here on GitHub was about simulating a math coprocessor to raise an arbitrary real number to an arbitrary real power using only summation, inversion, and shift operations. I remembered from my school days that all basic math operations on binary numbers can be expressed through them. And after a while I was able to achieve accuracy of up to **+-1** least significant bit relative to the hardware reference (numbers for reconciliation were in the IEEE754 double-precision format). [The original implementation of this math lib](https://github.com/AndreyGS/MinimalMath) was done on Java, but later I made [the new and improved lib version](https://github.com/AndreyGS/CMinimalMath) on C.
 
-For a long time I was interested in the topic of cryptography - how encryption works, the basic principles of cryptographic algorithms and for a better understanding of it I decided to create [my own small lightweight library](https://github.com/AndreyGS/CryptoLib) using C and assembler with the implementation of some popular algorithms (DES, 3DES, AES, SHA, HMAC, etc.), including the AES-NI (hardware-based implementation of AES for x86 and amd64).
+For a long time I was interested in the topic of cryptography - how encryption works, the basic principles of cryptographic algorithms and for a better understanding of it I decided to create [my own small lightweight cryptographic library](https://github.com/AndreyGS/CryptoLib) using C and assembler with the implementation of some popular algorithms (DES, 3DES, AES, SHA, HMAC, etc.), including the AES-NI (hardware-based implementation of AES for x86 and amd64).
 
-I was also interested in serialization and developed my own binary serialization protocol, implementing it in C++. [This project](https://github.com/AndreyGS/common_serialization) is still under development, however, the protocol description as well as the main algorithmic part have been implemented. It remains to finish unit testing and add some additional classes replacing std ones.
+I was also interested in serialization and developed [my own binary serialization protocol and implementing it on C++](https://github.com/AndreyGS/common_serialization). It's still under development, however, but the protocol description and the main algorithmic part as well have been implemented. It remains to finish unit testing and add some additional classes replacing std ones.
 
 You can view these repositories and my other projects [here](https://github.com/AndreyGS). 
 
-Also, back in 2019, I wrote a few articles on Javascript on [Habr.com](https://habr.com/ru/users/ukbpyh/publications/articles).
+Also, back in 2019, I wrote [few articles on Javascript on Habr.com](https://habr.com/ru/users/ukbpyh/publications/articles).
 
 ## Priorities
 
