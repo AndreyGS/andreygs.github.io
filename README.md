@@ -14,7 +14,7 @@ One of my first projects here on GitHub was about simulating a math coprocessor 
 
 For a long time I was interested in the topic of cryptography - how encryption works, the basic principles of cryptographic algorithms and for a better understanding of it I decided to create [small lightweight cryptographic library](https://github.com/AndreyGS/CryptoLib) using C and assembler with the implementation of some popular algorithms (DES, 3DES, AES, SHA, HMAC, etc.), including the AES-NI (hardware-based implementation of AES for x86 and amd64).
 
-I was also interested in serialization and developed [my own binary serialization protocol and implementing it on C++](https://github.com/AndreyGS/common_serialization). It's still under development, however, but the protocol description and the main algorithmic part as well have been implemented. It remains to finish unit testing and add some additional classes replacing std ones.
+I was also interested in serialization and developed [my own binary serialization protocol and implementing it on C++](https://github.com/AndreyGS/common_serialization). It's still under development, however, but the [protocol description](https://github.com/AndreyGS/common_serialization/blob/master/CSP.txt) and the main algorithmic part as well have been implemented. It remains to finish unit testing and add some additional classes replacing std ones.
 
 You can view these repositories and my other projects [here](https://github.com/AndreyGS). 
 
